@@ -1,6 +1,16 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
+/*
+SUBIR A GIT
+git add .
+git commit -m "comentario para saber que se cambio o agrego"
+git push
+
+CLONAR REPOSITORIO
+git clone (copia la url desde code)
+*/
+
 export const Contador = () => {
 
   const [valor, setValor] = useState(10)
