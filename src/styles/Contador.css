@@ -1,0 +1,36 @@
+.estilo-contador {
+  background-color: black;
+  color: aquamarine;
+  border: .3rem solid aquamarine;
+  text-align: center;
+  justify-content: center;
+}
+
+.estilo-botones {
+  background-color: black;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.boton-cambio {
+  background-color: black;
+  color: aquamarine;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.boton-cambio:hover {
+  background-color: aquamarine;
+  color: black;
+}
+
+.estilo-in {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: .1rem solid black;
+}
